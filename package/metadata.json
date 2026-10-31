@@ -1,0 +1,19 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "primis"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Shows your Claude Code usage limits and per-model breakdown",
+        "Icon": "utilities-system-monitor",
+        "Id": "org.primis.claudeusage",
+        "License": "MIT",
+        "Name": "Claude Usage",
+        "Version": "1.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml"
+}
